@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/BP_GunBase.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/E_FireModes.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/E_Barrels.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/E_Attachments.uasset",
@@ -21,6 +20,9 @@
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/FPWeapon/Mesh/SK_FPGun.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/BP_ShotgunBullets.uasset",
+				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/BP_RecoilCameraShake.uasset",
+				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/Blueprints/BP_GunBase.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZG/53GP45BM1XZCHAVVMROZ4A.uasset",
 				"C:/Github/Unreal/ModularGuns/ModularGunsPrototype/Content/FirstPerson/Blueprints/BPC_GunBase.uasset",
